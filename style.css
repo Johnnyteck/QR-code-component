@@ -29,7 +29,7 @@ body {
 
 .container {
     background: hsl(0, 0%, 100%);    
-    max-width: 24rem;
+    max-width: 20rem;
 
     display: flex;
     flex-direction: column;
