@@ -23,12 +23,15 @@ body {
     width: 100%;
     justify-content: center;
     align-items: center;
+    
 }
 
 /* Container style */
 
 .container {
     background: hsl(0, 0%, 100%);    
+    box-shadow: 0px 10px 16px 1px hsl(223deg 47% 23% / 20%);
+
     max-width: 20rem;
 
     display: flex;
